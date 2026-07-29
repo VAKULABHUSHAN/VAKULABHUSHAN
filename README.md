@@ -23,6 +23,12 @@ Currently sharpening <b>DSA</b>, <b>System Design</b> and <b>Backend Architectur
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VAKULABHUSHAN&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
 
+<br/>
+
+### 🟩 Contribution Grid
+
+<img src="https://ghchart.rshah.org/38BDF8/VAKULABHUSHAN" alt="Vakulabhushan's GitHub contribution chart" width="90%"/>
+
 </div>
 
 <br/>
@@ -117,65 +123,15 @@ currently_learning: ["Advanced Flutter", "DSA in C", "System Design", "Clean Arc
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VAKULABHUSHAN&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff" width="95%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=VAKULABHUSHAN&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&display_format=%22productive-time%22" width="60%" alt="Productive time card (requires show_icons + display_format on a supported fork; see setup notes)"/>
-
 </div>
-
-> **Note:** "Productive Time" is not part of the actively maintained `github-readme-stats` API. See the setup notes at the bottom for the maintained way to show this (WakaTime / Waka-readme-stats) instead of a deprecated widget.
 
 <br/>
 
-## 📌 Featured Projects
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🗂️ Card Vault
-Flutter app to digitize and manage visiting cards with OCR-powered parsing.
-
-**Highlights**
-- Google ML Kit OCR for card scanning
-- Supabase backend, offline-first design
-- Categories, search & favorites
-- PDF & Excel export
-- Biometric authentication
-- Image compression
-
-`Flutter` `Dart` `Supabase` `GetX` `Google ML Kit`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Daemon AI
-A local, offline-first AI desktop application.
-
-**Highlights**
-- Offline AI chat powered by Ollama
-- Persistent conversation memory
-- Project & knowledge management
-- Local LLM support, no cloud dependency
-
-`Angular` `Electron` `Express` `MongoDB` `Ollama`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" colspan="2">
-
-### 🏭 Invicta ERP
-A full-fledged stock management ERP system.
-
-**Modules**
-`Inventory` · `Warehouse` · `Purchase Orders` · `Customers` · `Vendors` · `Reports`
-
-</td>
-</tr>
-</table>
+<img src="https://github-profile-trophy.vercel.app/?username=VAKULABHUSHAN&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%"/>
 
 </div>
 
