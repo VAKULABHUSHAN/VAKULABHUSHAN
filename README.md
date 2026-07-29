@@ -8,9 +8,9 @@
 
 <br/>
 
-<p>
-I build clean, offline-first <b>Flutter</b> applications and explore local AI systems.<br/>
-Currently sharpening <b>DSA</b>, <b>System Design</b> and <b>Backend Architecture</b>.
+<p width="80%">
+Mobile Application Developer building clean, production-grade <b>Flutter</b> apps —<br/>
+with a growing interest in offline-first architecture and local AI systems.
 </p>
 
 <a href="https://vakul-portal.vercel.app/"><img src="https://img.shields.io/badge/All--in--One%20Link-000000?style=for-the-badge&logo=linktree&logoColor=white" /></a>
@@ -22,12 +22,6 @@ Currently sharpening <b>DSA</b>, <b>System Design</b> and <b>Backend Architectur
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VAKULABHUSHAN&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
-
-### 🟩 Contribution Grid
-
-<img src="https://ghchart.rshah.org/38BDF8/VAKULABHUSHAN" alt="Vakulabhushan's GitHub contribution chart" width="90%"/>
 
 </div>
 
@@ -42,26 +36,19 @@ Currently sharpening <b>DSA</b>, <b>System Design</b> and <b>Backend Architectur
 ```yaml
 name: "Vakulabhushan NJ"
 role: "Mobile Application Developer"
-education: "B.Tech CSE, SRM Institute of Science & Technology, Ramapuram (2024 - 2028)"
+education: "B.Tech CSE — SRM Institute of Science & Technology, Ramapuram (2024 – 2028)"
 location: "Chennai, India"
-focus: ["Flutter", "Dart", "Backend Development", "Offline AI Systems"]
-currently_learning: ["Advanced Flutter", "DSA in C", "System Design", "Clean Architecture"]
+
+focus:
+  - Flutter & Dart
+  - Backend Development & REST APIs
+  - Offline-first & Local AI Systems
+
+currently_learning:
+  - Advanced Flutter
+  - Data Structures & Algorithms (C)
+  - System Design & Clean Architecture
 ```
-
-<br/>
-
-## 🚀 Current Focus
-
-<div align="center">
-
-| | |
-|---|---|
-| 🔭 | Building scalable, production-ready **Flutter** applications |
-| 📚 | Strengthening **DSA** and **System Design** fundamentals |
-| 🤖 | Exploring **local / offline AI** systems |
-| ⚡ | Designing clean, maintainable backend architectures |
-
-</div>
 
 <br/>
 
@@ -127,16 +114,6 @@ currently_learning: ["Advanced Flutter", "DSA in C", "System Design", "Clean Arc
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VAKULABHUSHAN&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%"/>
-
-</div>
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <br/>
@@ -144,18 +121,8 @@ currently_learning: ["Advanced Flutter", "DSA in C", "System Design", "Clean Arc
 ## 🐍 Contribution Snake
 
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/VAKULABHUSHAN/VAKULABHUSHAN/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" width="100%"/>
-</div>
-
-> Renders after the snake GitHub Action runs once — see setup instructions below.
-
-<br/>
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -165,7 +132,7 @@ currently_learning: ["Advanced Flutter", "DSA in C", "System Design", "Clean Arc
 
 ### ⭐ Support
 
-If you like my projects, consider starring my repositories.
+If you find my work useful, consider starring my repositories.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
