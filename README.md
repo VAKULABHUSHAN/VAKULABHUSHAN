@@ -21,7 +21,7 @@ with a growing interest in offline-first architecture and local AI systems.
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=VAKULABHUSHAN&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="game.gif" width="100%"/>
 
 </div>
 
@@ -127,6 +127,8 @@ currently_learning:
 </div>
 
 <br/>
+
+
 
 <div align="center">
 
