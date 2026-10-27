@@ -21,7 +21,7 @@ with a growing interest in offline-first architecture and local AI systems.
 
 <br/><br/>
 
-<img src="game.gif" width="100%"/>
+
 
 </div>
 
@@ -29,28 +29,6 @@ with a growing interest in offline-first architecture and local AI systems.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<br/>
-
-## 🧭 About Me
-
-```yaml
-name: "Vakulabhushan NJ"
-role: "Mobile Application Developer"
-education: "B.Tech CSE — SRM Institute of Science & Technology, Ramapuram (2024 – 2028)"
-location: "Chennai, India"
-
-focus:
-  - Flutter & Dart
-  - Backend Development & REST APIs
-  - Offline-first & Local AI Systems
-
-currently_learning:
-  - Advanced Flutter
-  - Data Structures & Algorithms (C)
-  - System Design & Clean Architecture
-```
-
-<br/>
 
 <div align="center">
 
