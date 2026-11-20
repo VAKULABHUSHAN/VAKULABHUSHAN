@@ -73,47 +73,11 @@ with a growing interest in offline-first architecture and local AI systems.
 
 <br/>
 
-
-name: Contribution City
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # daily
-  workflow_dispatch:       # lets you run it by hand from the Actions tab
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate city
-        env:
-          # Optional: add a PAT with `read:user` as secret GH_PAT to include private contributions
-          GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
-        run: python .github/scripts/contribution_city.py "${{ github.repository_owner }}" -o assets/contribution-city.svg
-
-      - name: Commit if changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/contribution-city.svg
-          git diff --staged --quiet || (git commit -m "chore: update contribution city" && git push)
-
-
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VAKULABHUSHAN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAKULABHUSHAN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VAKULABHUSHAN&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
 
 <br/>
 
@@ -137,7 +101,19 @@ jobs:
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
+<br/>
+
+## 🏙️ Contribution City
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/VAKULABHUSHAN/VAKULABHUSHAN/main/assets/contribution-city.svg" alt="Contribution City - 3D isometric view of my GitHub contributions" width="100%"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
